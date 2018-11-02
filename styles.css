@@ -1,0 +1,31 @@
+img{
+    height:320px;
+    width:350px;
+    }
+.music{
+    color:lightblue;
+    }
+.star{
+    color:blue;
+    font-family: 'Dancing Script', cursive;
+    }
+.comic{
+    color:lightgreen;
+    }
+.Anime{
+    color:green;
+    font-family: 'Dancing Script', cursive;
+    }
+ul{
+    color:darkblue;
+    font-family: 'Poor Story', cursive;
+    font-size:25px;
+    }
+p{
+    font-size:20px;
+    }
+h1{
+    font-family: 'Tangerine', cursive;
+    font-size:60px;
+
+    }
